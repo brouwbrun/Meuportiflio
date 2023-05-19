@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Portfólio</title>
+  <style>
+     body {
+                background-color:rgb(58, 57, 80);
+                color: whitesmoke;
+                font:normal 15pt Arial;
+        }
+        h1{
+            color:rgb(245, 243, 247);
+        }  
+  </style>
+</head>
+<style>
+</style>
+
+
+  <header>
+    <h1>Meu Portfólio</h1>
+   
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre mim</h2>
+    <p>Analista de Folha de Pagamento, Estudando JavaScript</p>
+    <p>Autodidata, Proativo e determinado na resolução de problemas.</p>
+  </section>
+  <style>
+    body{
+        font:normal 12pt Arial;
+        color: rgb(206, 197, 197);
+    }
+  </style>
+
+  <section id="projetos">
+    <h2>Projetos recentes</h2>
+    <div class="projeto">
+      <h3>Portfólio</h3>
+      <p>Trabalhando em meu proprio projeto</p>
+      <p><!--Inclua imagens ou links para demonstrar visualmente o projeto.</p>-->
+    </div>
+    <!-- Repita a estrutura acima para cada projeto -->
+  </section>
+
+  <section id="habilidades">
+    <style>
+        h2{
+            color: rgb(199, 198, 198);
+            font: normal 15px Arial;
+        }
+    </style>
+    <h2>Proatividade</h2>
+    <ul>
+      <li>Dinamismo</li>
+      <li>Determinação</li>
+      <li>Facilidade em trabalho em equipe</li>
+      <!-- Adicione mais habilidades -->
+    </ul>
+  </section>
+
+  <section id="experiencia">
+    <h2>Experiência profissional</h2>
+    <div class="experiencia">
+      <h3>Fundação Manoel da Silva Almeida</h3>
+      <p>Analista de DP</p>
+      <p>Gerenciamento de Sistema de Folha de pagamento</p>
+    </div>
+    <!-- Repita a estrutura acima para cada experiência profissional -->
+  </section>
+
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Endereço de e-mail: brouwbrun@gmail.com</p>
+    <p>Telefone: (81) 9 9949-0172</p>
+    <p>Links para redes sociais:</p>
+    <ul>
+      <li><a href="https://www.linkedin.com/seuperfil">LinkedIn</a></li>
+      <li><a href="https://github.com/seurepositorio">GitHub</a></li>
+      <!-- Adicione mais links para suas redes sociais -->
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Meu Portfólio(Bruno Lopes). Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
